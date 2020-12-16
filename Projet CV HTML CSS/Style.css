@@ -1,16 +1,58 @@
 body {background-color:rgba(66, 49, 3, 0.774);
+
+
 }
 
 
 
-.tête {text-align:center}
+.tête {text-align:center;}
 
 
 
 
-.bac {text-align:center;}
+.bac {text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
 
 
-.dgie{text-align: center;}
+}
 
 
+.dgie{text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+
+
+}
+
+.gie{text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 12px;
+
+
+
+}
+
+
+.supu{text-align:center;
+    margin-right: auto;
+    margin-left: auto;}
+
+
+.entier{
+display: flex;
+
+
+}
+
+
+.entier1{
+    display: flex;
+
+
+
+
+}
